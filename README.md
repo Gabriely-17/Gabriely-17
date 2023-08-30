@@ -1,5 +1,5 @@
   Sobre mim
-- 👋 Olá, meu nome é @Gabriely-13
+- 👋 Olá, meu nome nessa plataforma é @Gabriely-13
 - 👀 estou interessada em aprender a programar novas linguagens
 - 🌱 Atualmente estou aprendendo a programar 
 
