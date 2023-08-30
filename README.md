@@ -1,6 +1,6 @@
   Sobre mim
 - 👋 Olá, meu nome é @Gabriely-13
-- 👀 eu estou interessada em aprender a programar novas linguagens
+- 👀 estou interessada em aprender a programar novas linguagens
 - 🌱 Atualmente estou aprendendo a programar 
 
   ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
